@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir varshith
+varshith/test{1..10} .txt
